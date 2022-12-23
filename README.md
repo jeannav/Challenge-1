@@ -1,4 +1,4 @@
-# Challenge-1
+# Horiseon-Refactor
 
 ## Description
 This is consolidated code, for Horiseon. The HTML is taking advantage of semantic tags, and the CSS is shorter due to combing class attributes for styles.
