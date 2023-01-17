@@ -6,6 +6,6 @@ This is consolidated code, for Horiseon. The HTML is taking advantage of semanti
 ## Links
 
 [GitHub Repo](https://github.com/jeannav/Challenge-1)\
-[Live URL](https://jeannav.github.io/Challenge-1/)
+[Live URL](https://jeannav.github.io/Horiseon-Refactor/)
 
 ![Screenshot](./assets/images/site.jpg)
